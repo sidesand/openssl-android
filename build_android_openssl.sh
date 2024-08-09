@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION='openssl-1.1.1w'
+VERSION='openssl-3.3.1'
 ANDROID_API=24
 
 function build_openssl()
